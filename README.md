@@ -1,6 +1,6 @@
 # Aplicación de consola en C#
 ## ConsolaTare1 
-### Tema: Aplicar el uso de "Console" con sus respectivos métodos : large_blue_circle: 
+### Tema: Aplicar el uso de "Console" con sus respectivos métodos :large_blue_circle: 
 
 El programa tiene que usar : :scroll: 
 [x]Console.WriteLine(); \
