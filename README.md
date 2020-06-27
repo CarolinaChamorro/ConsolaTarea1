@@ -2,7 +2,7 @@
 ## ConsolaTare1 
 ### Tema: Aplicar el uso de "Console" con sus respectivos métodos :large_blue_circle: 
 
-El programa tiene que usar : :scroll: 
+El programa tiene que usar : :scroll: \
 [x]Console.WriteLine(); \
 [x]Console.ReadLine(); \
 [x]Args(Ingreso de parámetros en el cmd) 
