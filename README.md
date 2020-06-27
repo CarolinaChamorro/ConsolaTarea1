@@ -5,7 +5,7 @@
 El programa tiene que usar : :scroll: 
 [x]Console.WriteLine(); \
 [x]Console.ReadLine(); \
-[x]Args(Ingreso de parámetros en el cmd) \
+[x]Args(Ingreso de parámetros en el cmd) 
 
 ### Mi aplicación es una calculadora básica :white_check_mark: 
 :arrow_right: -Ingreso de dos número \
@@ -15,7 +15,7 @@ El programa tiene que usar : :scroll:
 ### Ingreso desde CMD :white_check_mark: 
 -Después de escribir el ejecutable ConsolaTarea1, se debe ingresar un **Nombre y una Contraseña**. \
 -Luego dar enter. \
-En esta parte se visualizará una pequeña bienvenida a la aplicaci+on de consola. \
+En esta parte se visualizará una pequeña bienvenida a la aplicación de consola. 
 
 *Los parámetros a ingresar en el cmd, visualizan una manera de el uso de argumentos ingresados desde el cmd*
 
