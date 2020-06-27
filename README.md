@@ -10,13 +10,13 @@ El programa tiene que usar : :scroll: \
 ### Mi aplicación es una calculadora básica :white_check_mark: 
 :arrow_right: -Ingreso de dos número \
 :arrow_right: -Operaciones matemáticas(suma,resta,multiplicación,división) \
-:arrow_right: -Ingreso de nombre(esta seccion es para generar interactividad con la aplicación) 
+:arrow_right: -Ingreso de nombre(esta sección es para generar interactividad con la aplicación) 
 
 ### Ingreso desde CMD :white_check_mark: 
 -Después de escribir el ejecutable ConsolaTarea1, se debe ingresar un **Nombre y una Contraseña**. \
 -Luego dar enter. \
 En esta parte se visualizará una pequeña bienvenida a la aplicación de consola. 
 
-*Los parámetros a ingresar en el cmd, visualizan una manera de el uso de argumentos ingresados desde el cmd*
+*Los parámetros a ingresar en el cmd, visualizan una manera del uso de argumentos ingresados desde el cmd*
 
 
